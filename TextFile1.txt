@@ -1,0 +1,11 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 300021524 - Oded Lifshiz
+Second Student Details: 305747057 - Hila Rofman 
+Delivery Date.........: 21 - May - 2013
+Delivered In Delay....: Yes
+Lecturer Confirmation.: No
+Delay Reason..........: Improving code
+Comments..............: 
+VS Version............: Visual Studio 2010
+========================End Exercise Checking Report========================
